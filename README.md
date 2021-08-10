@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-adaptive-layout-c-Fkrn7dM)
 - Live Site URL: [GitHub Pages](https://icewarrior01.github.io/Single-price-grid-component/)
 
 ## My process
